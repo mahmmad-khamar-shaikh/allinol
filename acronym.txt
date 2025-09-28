@@ -1,0 +1,9 @@
+IDE: Integrated Development Environment
+OOP: Object Oriented Programming
+UX: User Experience
+
+JSON: Javascript Object Notation
+FIFO: First In First Out
+LIFO: Last In First Out
+TDD: Test Driven Develoopment
+AI: Artificial Inteligents 
